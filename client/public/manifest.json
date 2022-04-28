@@ -1,0 +1,15 @@
+{
+  "short_name": "174 Project - Brett Davis",
+  "name": "Final project for Sac State CSC 174 Spring 2022",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,103 @@
+.App {
+  text-align: center;
+}
+
+.login-area {
+  font-size: 30px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.login-area button{
+  font-size: 30px;
+  margin-left: 20px;
+}
+
+.login-area input{
+  font-size: 30px;
+  margin-left: 20px;
+}
+
+.logout-btn {
+  font-size: 30px;
+  position: absolute;
+  left: 0px;
+}
+
+.logout-area {
+  position: absolute;
+}
+
+.account-popup {
+  font-size: 30px;
+  text-align: left;
+  position: absolute;
+  background-color: white;
+  height: 100%;
+  width: 100%;
+  z-index: 10;
+}
+
+.account-popup button {
+  height: 50px;
+  width: 50px;
+  font-size: 30px;
+}
+
+.account-popup input {
+  font-size: 30px;
+}
+
+.account-popup input[type="submit"] {
+  font-size: 30px;
+}
+
+.account-popup select {
+  font-size: 30px;
+}
+
+.bottom-section {
+  position: absolute;
+  top: 200px;
+  padding: 10px;
+  left: 10px;
+}
+.section-btn {
+  font-size: 30px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.section-btn button{
+  font-size: 30px;
+  margin-left: 10px;
+}
+
+.form-area {
+  font-size: 30px;
+  text-align: left;
+}
+
+.form-area button {
+  font-size: 30px;
+}
+
+.form-area select{
+  font-size: 30px;
+  text-align: left;
+}
+
+.form-area input[type='radio']{
+  height: 20px;
+  width: 20px;
+}
+
+.form-area input[type='number'],[type="text"]{
+  font-size: 30px;
+}
+
+.form-area input[type='submit']{
+  margin-top: 10px;
+  font-size: 30px;
+}
