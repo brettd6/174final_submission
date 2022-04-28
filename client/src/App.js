@@ -17,7 +17,7 @@ function App() {
   const [password, setPassword] = useState('');
   const [activeSection, toggleSection] = useState('');
   const [accountPopup, toggleAccountPopup] = useState(false);
-  const [facilCount, setFacilCount] = useState('');
+  const [facilCount, setFacilCount] = useState('...');
   const [gymList, setGymList] = useState([]);
   const [gymTimes, setGymTimes] = useState([]);
   const [poolList, setPoolList] = useState([]);
